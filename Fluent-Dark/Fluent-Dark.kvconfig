@@ -1,7 +1,7 @@
 [%General]
 author=LuwX
 comment=A theme based on fluent design.
-x11drag=all
+x11drag=none
 alt_mnemonic=true
 left_tabs=false
 attach_active_tab=false
