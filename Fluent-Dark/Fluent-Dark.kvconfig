@@ -452,8 +452,8 @@ text.focus.color=#ffffff
 
 [Menu]
 inherits=PanelButtonCommand
-frame.top=3
-frame.bottom=3
+frame.top=0
+frame.bottom=0
 frame.left=0
 frame.right=0
 frame.element=menu
